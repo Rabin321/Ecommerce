@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329329969096",
+    "project_id": "deal-mart-69481",
+    "storage_bucket": "deal-mart-69481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329329969096:android:5a66b3cd90880276ad22fd",
+        "android_client_info": {
+          "package_name": "com.example.shopme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329329969096-taji0iap24pm39dq2gn9rs1qllek2rmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHHI44YEGhdThYtyZlmUPnioHbiq0Vgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329329969096-taji0iap24pm39dq2gn9rs1qllek2rmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
