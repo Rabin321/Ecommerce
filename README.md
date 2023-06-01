@@ -15,7 +15,8 @@ This is an Ecommerce Flutter application built for peer-to-peer (C2C) transactio
 
 
 ##Screenshots
-![login0](https://github.com/Rabin321/Ecommerce/assets/53074799/46d5c919-0b48-4631-8675-ee714de8a56a)
+
+<img src="https://github.com/Rabin321/Ecommerce/assets/53074799/46d5c919-0b48-4631-8675-ee714de8a56a" width="300" height="600">
 ![signup](https://github.com/Rabin321/Ecommerce/assets/53074799/f76966e1-d5a5-4d48-910c-b8a9a81bd52d)
 ![login1](https://github.com/Rabin321/Ecommerce/assets/53074799/3507de7a-f4d9-48c5-b8d1-e512a938632c)
 ![home](https://github.com/Rabin321/Ecommerce/assets/53074799/b1ee51a9-0c47-453a-ad66-59d0a5d93c67)
