@@ -1,6 +1,6 @@
 # shopme
 
-This is an Ecommerce Flutter application built for peer-to-peer (C2C) transactions. The app utilizes Firebase as the backend and integrates with the Khalti payment gateway only for testing purpose Thus, user cannot directly pay to selleras of now. The state management is handled using the Provider.
+This is an Ecommerce Flutter application built for peer-to-peer (C2C) transactions. The app utilizes Firebase as the backend and integrates with the Khalti payment gateway only for testing purpose Thus, user cannot directly pay to seller as of now. The state management is handled using the Provider.
 
 ## Features
 1.User Registration and Authentication: Users can create accounts, log in, and manage their profiles.
